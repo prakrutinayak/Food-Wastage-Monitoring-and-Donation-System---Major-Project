@@ -1,0 +1,15 @@
+@"
+__pycache__/
+*.pyc
+venv/
+env/
+.vscode/
+.streamlit/secrets.toml
+datasets/
+models/
+*.h5
+*.pkl
+*.pt
+config.py
+"@ > .gitignore
+
