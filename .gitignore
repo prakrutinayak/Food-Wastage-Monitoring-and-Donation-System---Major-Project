@@ -5,7 +5,6 @@ venv/
 env/
 .vscode/
 .streamlit/secrets.toml
-datasets/
 models/
 *.h5
 *.pkl
